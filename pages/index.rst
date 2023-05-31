@@ -8,7 +8,7 @@
 
 .. class:: jumbotron col-md-6
 
-.. admonition:: Welcome To The Fake Site
+.. admonition:: Welcome To My Fake Site
 
     It pretends to be about things, but is really just an example.
 
