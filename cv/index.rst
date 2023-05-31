@@ -9,7 +9,8 @@
 
 
 .. admonition:: My academic CV
-
+   
+   | Thumbnail below.
    | Download a `PDF </2023-05-CV_DominikWelke_academic_verbose.pdf>`_ (with hyperlinks and all)
    | Version: May 2023
 
