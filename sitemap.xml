@@ -6,67 +6,67 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>http://127.0.0.1:8000/</loc>
+  <loc>http://dominikwelke.github.io/</loc>
   <lastmod>2023-05-31T15:00:00Z</lastmod>
  </url>
  <url>
-  <loc>http://127.0.0.1:8000/2021/</loc>
+  <loc>http://dominikwelke.github.io/2021/</loc>
   <lastmod>2023-05-31T15:00:00Z</lastmod>
  </url>
  <url>
-  <loc>http://127.0.0.1:8000/2023/</loc>
+  <loc>http://dominikwelke.github.io/2023/</loc>
   <lastmod>2023-05-31T15:00:00Z</lastmod>
  </url>
  <url>
-  <loc>http://127.0.0.1:8000/archive.html</loc>
+  <loc>http://dominikwelke.github.io/archive.html</loc>
+  <lastmod>2023-05-31T15:23:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dominikwelke.github.io/categories/</loc>
   <lastmod>2023-05-31T15:00:00Z</lastmod>
  </url>
  <url>
-  <loc>http://127.0.0.1:8000/categories/</loc>
+  <loc>http://dominikwelke.github.io/categories/a/</loc>
   <lastmod>2023-05-31T15:00:00Z</lastmod>
  </url>
  <url>
-  <loc>http://127.0.0.1:8000/categories/a/</loc>
+  <loc>http://dominikwelke.github.io/categories/b/</loc>
   <lastmod>2023-05-31T15:00:00Z</lastmod>
  </url>
  <url>
-  <loc>http://127.0.0.1:8000/categories/b/</loc>
+  <loc>http://dominikwelke.github.io/cv/</loc>
   <lastmod>2023-05-31T15:00:00Z</lastmod>
  </url>
  <url>
-  <loc>http://127.0.0.1:8000/cv/</loc>
+  <loc>http://dominikwelke.github.io/galleries/</loc>
   <lastmod>2023-05-31T15:00:00Z</lastmod>
  </url>
  <url>
-  <loc>http://127.0.0.1:8000/galleries/</loc>
+  <loc>http://dominikwelke.github.io/info/</loc>
   <lastmod>2023-05-31T15:00:00Z</lastmod>
  </url>
  <url>
-  <loc>http://127.0.0.1:8000/info/</loc>
+  <loc>http://dominikwelke.github.io/info2/</loc>
   <lastmod>2023-05-31T15:00:00Z</lastmod>
  </url>
  <url>
-  <loc>http://127.0.0.1:8000/info2/</loc>
+  <loc>http://dominikwelke.github.io/listings/</loc>
   <lastmod>2023-05-31T15:00:00Z</lastmod>
  </url>
  <url>
-  <loc>http://127.0.0.1:8000/listings/</loc>
+  <loc>http://dominikwelke.github.io/news/</loc>
   <lastmod>2023-05-31T15:00:00Z</lastmod>
  </url>
  <url>
-  <loc>http://127.0.0.1:8000/news/</loc>
+  <loc>http://dominikwelke.github.io/news/test/</loc>
   <lastmod>2023-05-31T15:00:00Z</lastmod>
  </url>
  <url>
-  <loc>http://127.0.0.1:8000/news/test/</loc>
+  <loc>http://dominikwelke.github.io/news/test2/</loc>
   <lastmod>2023-05-31T15:00:00Z</lastmod>
  </url>
  <url>
-  <loc>http://127.0.0.1:8000/news/test2/</loc>
-  <lastmod>2023-05-31T15:00:00Z</lastmod>
- </url>
- <url>
-  <loc>http://127.0.0.1:8000/news/test3/</loc>
+  <loc>http://dominikwelke.github.io/news/test3/</loc>
   <lastmod>2023-05-31T15:00:00Z</lastmod>
  </url>
 </urlset>
