@@ -24,8 +24,8 @@ Preprints and under Review
    <div style="border-left: 0px solid #000; height: 50px;"></div> 
 
 
-Peer reviewed
-=============
+Research Publications
+=====================
 
 **Welke, D.** & Vessel, E. A. (2022). Naturalistic viewing conditions can increase task engagement and aesthetic preference but have only minimal impact on EEG quality. *NeuroImage*, 256:119218, doi:`10.1016/j.neuroimage.2022.119218 <https://doi.org/10.1016/j.neuroimage.2022.119218>`_
 
@@ -55,7 +55,3 @@ Brooks, T., van Vliet, M., Quentin, R., Holdgraf, C., Chaumon, M., Mikulan, E., 
 ..., **Welke, D.**, ...,
 Brunner, C., Rockhill, A., Larson, E., 
 Gramfort, A., & Jas, M. (2019). MNE-BIDS: Organizing electrophysiological data into the BIDS format and facilitating their analysis. *Journal of Open Source Software*, 4(44):1896, doi:`10.21105/joss.01896 <https://doi.org/10.21105/joss.01896>`_
-
-.. raw:: html
-
-   <div style="border-left: 0px solid #000; height: 50px;"></div> 
