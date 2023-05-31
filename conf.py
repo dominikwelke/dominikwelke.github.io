@@ -989,7 +989,7 @@ LICENSE = ""
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
-CONTENT_FOOTER = '<p>Contents &copy; {date}         <a href="mailto:{email}">{author}</a></p> Built using         <a href="https://getnikola.com" rel="nofollow">Nikola</a>, based on the         <a href="https://themes.getnikola.com/v8/kiss/" rel="nofollow">kiss</a> theme        {license}'
+CONTENT_FOOTER = '<div style="border-left: 0px solid #000; height: 50px;"></div> <p>Contents &copy; {date} <a href="mailto:{email}">{author}</a></p> Built using <a href="https://getnikola.com" rel="nofollow">Nikola</a>, based on the <a href="https://themes.getnikola.com/v8/kiss/" rel="nofollow">kiss</a> theme {license}'
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will

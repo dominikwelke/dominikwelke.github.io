@@ -10,7 +10,7 @@
 
 .. admonition:: My academic CV
 
-   | `Download PDF </2023-05-CV_DominikWelke_academic_verbose.pdf>`_
+   | Download a `PDF </2023-05-CV_DominikWelke_academic_verbose.pdf>`_ (with hyperlinks and all)
    | Version: May 2023
 
 
@@ -24,8 +24,3 @@
    :alt: cv preview
 
    *CV created using the* `moderncv <https://github.com/moderncv/moderncv>`_ *LaTeX template*
-
-
-.. raw:: html
-
-   <div style="border-left: 0px solid #000; height: 50px;"></div>    
