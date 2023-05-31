@@ -19,6 +19,12 @@
 
 .. class:: col-md-5
 
+
+.. raw:: html
+
+   <div style="border-left: 0px solid #000; height: 20px;"></div> 
+
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris non nunc turpis.
 Phasellus a ullamcorper leo. Sed fringilla dapibus orci eu ornare. Quisque
 gravida quam a mi dignissim consequat. Morbi sed iaculis mi. Vivamus ultrices
@@ -29,3 +35,7 @@ Pellentesque iaculis risus urna. Proin est lorem, scelerisque non elementum at,
 semper vel velit. Phasellus consectetur orci vel tortor tempus imperdiet. Class
 aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
 himenaeos.
+
+.. raw:: html
+
+   <div style="border-left: 0px solid #000; height: 50px;"></div> 
