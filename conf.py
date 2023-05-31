@@ -16,11 +16,11 @@ import time
 
 
 # Data about this site
-BLOG_AUTHOR = "DomWell"  # (translatable)
+BLOG_AUTHOR = "DW"  # (translatable)
 BLOG_TITLE = "Dominik Welke"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "http://127.0.0.1:8000/"
+SITE_URL = "http://dominikwelke.github.io"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
@@ -142,8 +142,7 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/", "Home"),
-        ("/info/", "Info"),
+        ("/", "Info"),
         ("/cv/", "CV"),
         ("/news/", "News"),
         #("/archive.html", "Archives"),
