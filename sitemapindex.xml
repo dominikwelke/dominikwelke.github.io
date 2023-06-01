@@ -14,6 +14,14 @@
   <lastmod>2023-06-01T15:16:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://dominikwelke.github.io/categories/coding.xml</loc>
+  <lastmod>2023-06-01T16:02:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://dominikwelke.github.io/categories/conference.xml</loc>
+  <lastmod>2023-06-01T16:02:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://dominikwelke.github.io/categories/honours.xml</loc>
   <lastmod>2023-06-01T15:16:00Z</lastmod>
  </sitemap>
@@ -22,15 +30,23 @@
   <lastmod>2023-06-01T15:16:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://dominikwelke.github.io/categories/open-science.xml</loc>
+  <lastmod>2023-06-01T16:02:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://dominikwelke.github.io/categories/talk.xml</loc>
+  <lastmod>2023-06-01T16:02:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://dominikwelke.github.io/galleries/rss.xml</loc>
   <lastmod>2023-06-01T15:16:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://dominikwelke.github.io/rss.xml</loc>
-  <lastmod>2023-06-01T15:16:00Z</lastmod>
+  <lastmod>2023-06-01T16:02:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://dominikwelke.github.io/sitemap.xml</loc>
-  <lastmod>2023-06-01T15:16:00Z</lastmod>
+  <lastmod>2023-06-01T16:02:00Z</lastmod>
  </sitemap>
 </sitemapindex>
