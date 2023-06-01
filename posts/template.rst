@@ -1,6 +1,6 @@
-.. title: blaaab
-.. slug: test3
-.. date: 2023-05-29 20:44:00 UTC+02:00
+.. title: template
+.. slug: template
+.. date: 2000-01-01 00:00:00 UTC+02:00
 .. tags: a, b
 .. category: 
 .. link: 

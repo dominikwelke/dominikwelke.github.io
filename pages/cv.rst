@@ -10,8 +10,7 @@
 
 .. admonition:: My academic CV
    
-   | Thumbnail below.
-   | Download a `PDF </2023-05-CV_DominikWelke_academic_verbose.pdf>`_ (with hyperlinks and all)
+   | Download the `PDF </cv-files/2023-05-CV_DominikWelke_academic_verbose.pdf>`_ (with hyperlinks and all)
    | Version: May 2023
 
 
@@ -20,7 +19,7 @@
    <div style="border-left: 0px solid #000; height: 50px;"></div> 
 
 
-.. figure:: /2023-05-CV_DominikWelke_academic_verbose_endless.png
+.. figure:: /cv-files/2023-05-CV_DominikWelke_academic_verbose_endless.png
    :figwidth: 100 %
    :alt: cv preview
 
