@@ -34,7 +34,11 @@
   <lastmod>2023-06-01T16:14:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://dominikwelke.github.io/rss.xml</loc>
+  <lastmod>2023-06-02T10:51:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://dominikwelke.github.io/sitemap.xml</loc>
-  <lastmod>2023-06-02T16:10:00Z</lastmod>
+  <lastmod>2023-06-02T16:44:00Z</lastmod>
  </sitemap>
 </sitemapindex>
