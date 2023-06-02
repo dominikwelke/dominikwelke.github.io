@@ -8,9 +8,13 @@
 .. type: text
 
 
-.. admonition:: My scientific publications
 
-   All of them are freely accessible (as Preprint or OpenAccess publication)
+All my scientific publications are freely accessible (published OpenAccess and/or as preprint).
+You can also find me on some common and uncommon record databases:
+
+
+`ORCID <https://orcid.org/0000-0002-5529-1998>`_ | `Google Scholar <https://scholar.google.de/citations?user=B5xCyM0AAAAJ>`_ | `Web of Science <https://www.researcherid.com/rid/HGD-0810-2022>`_ | `impactstory <https://profiles.impactstory.org/u/0000-0002-5529-1998>`_
+
 
 .. raw:: html
 
@@ -29,7 +33,7 @@ Original Research
 =================
 
 **Welke, D.** & Vessel, E. A. (2022). Naturalistic viewing conditions can increase task engagement and aesthetic preference but have only minimal impact on EEG quality. *NeuroImage*, 256:119218, doi:`10.1016/j.neuroimage.2022.119218 <https://doi.org/10.1016/j.neuroimage.2022.119218>`_
-| `preprint <https://www.biorxiv.org/content/10.1101/2021.09.18.460905>`__
+| `preprint <https://www.biorxiv.org/content/10.1101/2021.09.18.460905>`__ | `preregistration <https://osf.io/bkep4>`__
 
 Strijbosch, W., Vessel, E. A., **Welke, D.**, Mitas, O., Gelissen, J., & Bastiaansen, M. (2021). On the Neuronal Dynamics of Aesthetic Experience: Evidence from Electroencephalographic Oscillatory Dynamics. *Journal of Cognitive Neuroscience*, 34(3):461–479, doi:`10.1162/jocn\_a\_01812 <https://doi.org/10.1162/jocn\_a\_01812>`_
 | `preprint <https://www.biorxiv.org/content/10.1101/2021.06.25.449758>`__

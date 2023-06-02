@@ -1,4 +1,4 @@
-.. title: My Academic CV
+.. title: My academic CV
 .. slug: cv
 .. date: 
 .. tags: 
@@ -7,11 +7,10 @@
 .. description: 
 .. type: text
 
+Below I pasted a human readable scan of my CV, but you can also `download the original PDF </cv-files/2023-05-CV_DominikWelke_academic_verbose.pdf>`__ if you rely on screen readers or want working hyperlinks. 
 
-.. admonition:: My academic CV
-   
-   | Download the `PDF </cv-files/2023-05-CV_DominikWelke_academic_verbose.pdf>`_ (with hyperlinks and all)
-   | Version: May 2023
+Version: May 2023
+
 
 
 .. raw:: html
@@ -23,4 +22,6 @@
    :figwidth: 100 %
    :alt: cv preview
 
-   *CV created using the* `moderncv <https://github.com/moderncv/moderncv>`_ *LaTeX template*
+CV created using the `moderncv <https://github.com/moderncv/moderncv>`_ LaTeX template
+
+   

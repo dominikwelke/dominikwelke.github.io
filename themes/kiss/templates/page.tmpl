@@ -39,6 +39,7 @@
         % endfor
     </div>
     %endif
+    <h1 class="title"><a href="${post.permalink()}">${post.title()|h}</a></h1>
     <div class="content">
         ${post.text()}
     </div>
