@@ -13,7 +13,7 @@ All my scientific publications are freely accessible (published OpenAccess and/o
 You can also find me on some common and uncommon record databases:
 
 
-`ORCID <https://orcid.org/0000-0002-5529-1998>`_ | `Google Scholar <https://scholar.google.de/citations?user=B5xCyM0AAAAJ>`_ | `Web of Science <https://www.researcherid.com/rid/HGD-0810-2022>`_ | `impactstory <https://profiles.impactstory.org/u/0000-0002-5529-1998>`_
+`ORCID <https://orcid.org/0000-0002-5529-1998>`_ | `Google Scholar <https://scholar.google.de/citations?user=B5xCyM0AAAAJ>`_ | `Publons/Web of Science <https://www.researcherid.com/rid/HGD-0810-2022>`_ | `impactstory <https://profiles.impactstory.org/u/0000-0002-5529-1998>`_
 
 
 .. raw:: html
