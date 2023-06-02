@@ -20,8 +20,8 @@ You can also find me on some common and uncommon record databases:
 
    <div style="border-left: 0px solid #000; height: 20px;"></div> 
 
-Preprints and under Review
-==========================
+Under Review
+============
 
 
 .. raw:: html
