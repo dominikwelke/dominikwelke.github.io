@@ -1,6 +1,6 @@
 .. title: About Me
 .. slug: index
-.. date: 2023-06-02 17:56:00 UTC
+.. date: 2023-06-01 17:56:00 UTC
 .. tags:
 .. link:
 .. description: Landing Page
