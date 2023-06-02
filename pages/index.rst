@@ -1,37 +1,34 @@
-.. title: Inpersonal Webpage
+.. title: About Me
 .. slug: index
-.. date: 1970-01-01 00:00:00 UTC
+.. date: 2023-06-02 17:56:00 UTC
 .. tags:
 .. link:
-.. description: Fake Site version 1, welcome page!
+.. description: Landing Page
 
 
-.. class:: jumbotron col-md-6
+I am a biologist studying individual behavior and physiology of one of the most ubiquitous species in the world - *Homo sapiens*.
+As a PhD student in the `VisNA Lab <https://www.aesthetics.mpg.de/forschung/projektteams/visna-lab.html>`_ at Max-Planck-Institute for Empirical Aesthetics I work on the interactions of visual aesthetic preferences with other high-level cognitive functions such as general reward processing, engagement, or creativity and insight. 
+In previous positions I had worked on more applied topics such as brain-computer interfaces (decoding observed errors from the EEG, during my Masters) or biomimetics (morphology of functional plant surfaces, way back during my Bachelors).
 
-.. admonition:: Welcome To My Fake Site
+I usually collect behavioral data together with non-invasive EEG and eye tracking, often along with peripheral physiology measures (ECG, EMG etc).  
+Yet, I fancy research technology and methodology in general and also gained some experience with intracranial EEG, DBS, fNIRS, fMRI, motion capturing, facial emotion tracking etc. as well as slice physiology, patch-clamp, genetics, electron/fluorescence/light microscopy etc. in the more hardcore biology realms.
 
-    It pretends to be about things, but is really just an example.
-
-    .. raw:: html
-
-       <a href="https://getnikola.com/" class="btn btn-primary btn-lg">Click Me!</a>
-
-
-.. class:: col-md-5
+I am interested in meta-science and fellow of the open science movement.
+This means I integrated best practice thinking, power analysis, preregistrations, replication approaches and preprints into my research workflow.
+I follow the discussion in the community and regularly contribute to FOSS code bases such as the MNE-Python ecosystem.
 
 
-.. raw:: html
+Contact
+-------
 
-   <div style="border-left: 0px solid #000; height: 20px;"></div> 
+If you want to connect, best send me an email: 
+:raw-html:`<br />`
+`dominik.welke@ae.mpg.de <dominik.welke@ae.mpg.de>`__ 
 
+I am very passive when it comes to social media, but you can find me on the following platforms: 
+:raw-html:`<br />`
+`mastodon <https://mas.to/@nair_od>`__ | `twitter <https://twitter.com/nair_od>`__ 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris non nunc turpis.
-Phasellus a ullamcorper leo. Sed fringilla dapibus orci eu ornare. Quisque
-gravida quam a mi dignissim consequat. Morbi sed iaculis mi. Vivamus ultrices
-mattis euismod. Mauris aliquet magna eget mauris volutpat a egestas leo rhoncus.
-In hac habitasse platea dictumst. Ut sed mi arcu. Nullam id massa eu orci
-convallis accumsan. Nunc faucibus sodales justo ac ornare. In eu congue eros.
-Pellentesque iaculis risus urna. Proin est lorem, scelerisque non elementum at,
-semper vel velit. Phasellus consectetur orci vel tortor tempus imperdiet. Class
-aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
-himenaeos.
+Other links:
+::raw-html:`<br />`
+`ORCID <https://orcid.org/0000-0002-5529-1998>`__ | `github <https://github.com/dominikwelke>`_
