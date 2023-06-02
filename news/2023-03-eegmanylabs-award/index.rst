@@ -11,4 +11,4 @@
 More info on the `award website <https://www.bna.org.uk/mediacentre/news/credibility-prize-2023/>`_
 
 I contributed to the white paper and am very happy to see this recognition.
-Congrats to Faisal Mushtaq and Yuri Pavlov, who cradled this huge living replication project!
+Congrats to Faisal Mushtaq and Yuri Pavlov, who started and lead this enormeous replication project!
