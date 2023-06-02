@@ -13,7 +13,7 @@ In previous positions I had worked on more applied topics such as brain-computer
 I usually collect behavioral data together with non-invasive EEG and eye tracking, often along with peripheral physiology (ECG, EMG etc).  
 Yet, I fancy research technology and methodology in general and also gained some experience with intracranial EEG, DBS, fNIRS, fMRI, motion capturing, facial emotion tracking etc. as well as slice physiology, patch-clamp, genetics, electron/fluorescence/light microscopy etc. in the more hardcore biology realms.
 
-I am interested in meta-science and fellow of the open science movement.
+I am interested in meta-science and fellow of open science.
 This means I integrated best practice thinking, power analysis, preregistrations, replication efforts and preprints into my research workflow.
 I follow the discussion in the community and regularly contribute to FOSS code bases such as the MNE-Python ecosystem.
 
