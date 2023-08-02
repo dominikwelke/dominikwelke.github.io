@@ -6,7 +6,7 @@
 .. description: Landing Page
 
 
-I am a biologist studying individual behavior and physiology in one of the most ubiquitous terretrial species on earth - *Homo sapiens*.
+I am a biologist studying individual behavior and physiology in one of the most ubiquitous terrestrial species on earth - *Homo sapiens*.
 As a PhD student in the `VisNA Lab <https://www.aesthetics.mpg.de/forschung/projektteams/visna-lab.html>`_ at Max-Planck-Institute for Empirical Aesthetics I work on the interactions of visual aesthetic preferences with other high-level cognitive functions such as general reward processing, engagement, or creativity and insight. 
 In previous positions I have worked on more applied topics such as brain-computer interfaces (decoding observed errors from the EEG, during my Masters) or biomimetics (morphology of functional plant surfaces, way back during my Bachelors).
 
