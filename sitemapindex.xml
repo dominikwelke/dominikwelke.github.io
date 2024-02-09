@@ -6,6 +6,10 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
+  <loc>http://dominikwelke.github.io/categories/changes.xml</loc>
+  <lastmod>2024-02-09T11:36:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://dominikwelke.github.io/categories/coding.xml</loc>
   <lastmod>2024-02-09T11:34:00Z</lastmod>
  </sitemap>
@@ -23,7 +27,7 @@
  </sitemap>
  <sitemap>
   <loc>http://dominikwelke.github.io/categories/open-science.xml</loc>
-  <lastmod>2024-02-09T11:34:00Z</lastmod>
+  <lastmod>2024-02-09T11:36:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://dominikwelke.github.io/categories/talk.xml</loc>
@@ -35,10 +39,10 @@
  </sitemap>
  <sitemap>
   <loc>http://dominikwelke.github.io/rss.xml</loc>
-  <lastmod>2024-02-09T11:34:00Z</lastmod>
+  <lastmod>2024-02-09T11:36:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://dominikwelke.github.io/sitemap.xml</loc>
-  <lastmod>2024-02-09T11:34:00Z</lastmod>
+  <lastmod>2024-02-09T11:36:00Z</lastmod>
  </sitemap>
 </sitemapindex>

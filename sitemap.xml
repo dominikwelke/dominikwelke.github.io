@@ -27,11 +27,15 @@
  </url>
  <url>
   <loc>http://dominikwelke.github.io/archive.html</loc>
-  <lastmod>2024-02-09T11:34:00Z</lastmod>
+  <lastmod>2024-02-09T11:36:00Z</lastmod>
  </url>
  <url>
   <loc>http://dominikwelke.github.io/categories/</loc>
-  <lastmod>2023-07-11T10:00:00Z</lastmod>
+  <lastmod>2024-02-09T11:36:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dominikwelke.github.io/categories/changes/</loc>
+  <lastmod>2024-02-09T11:36:00Z</lastmod>
  </url>
  <url>
   <loc>http://dominikwelke.github.io/categories/coding/</loc>
@@ -71,7 +75,7 @@
  </url>
  <url>
   <loc>http://dominikwelke.github.io/news/</loc>
-  <lastmod>2023-07-11T10:00:00Z</lastmod>
+  <lastmod>2024-02-09T11:36:00Z</lastmod>
  </url>
  <url>
   <loc>http://dominikwelke.github.io/news/2019-05-vice-news-brain-on-screen/</loc>
@@ -96,6 +100,10 @@
  <url>
   <loc>http://dominikwelke.github.io/news/2023-03-mne-eyetracking/</loc>
   <lastmod>2023-06-01T16:14:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dominikwelke.github.io/news/2023-11-moving-to-leeds/</loc>
+  <lastmod>2024-02-09T11:36:00Z</lastmod>
  </url>
  <url>
   <loc>http://dominikwelke.github.io/publications/</loc>
