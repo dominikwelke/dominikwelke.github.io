@@ -6,9 +6,10 @@
 .. description: Landing Page
 
 
-I am a biologist studying individual behavior and physiology in one of the most ubiquitous terrestrial species on earth - *Homo sapiens*.
-As a PhD student in the `VisNA Lab <https://www.aesthetics.mpg.de/forschung/projektteams/visna-lab.html>`_ at Max-Planck-Institute for Empirical Aesthetics I work on the interactions of visual aesthetic preferences with other high-level cognitive functions such as general reward processing, engagement, or creativity and insight. 
+I am a biologist studying individual behavior and physiology in the most ubiquitous primate species on earth - *Homo sapiens*.
+As a PhD student in the `VisNA Lab <https://www.aesthetics.mpg.de/forschung/projektteams/visna-lab.html>`_ at Max-Planck-Institute for Empirical Aesthetics I worked on the interactions of visual aesthetic preferences with other high-level cognitive processes such as reward processing, engagement, or creativity and insight. 
 In previous positions I have worked on more applied topics such as brain-computer interfaces (decoding observed errors from the EEG, during my Masters) or biomimetics (morphology of functional plant surfaces, way back during my Bachelors).
+I recently joined the `EEGManyLabs <https://osf.io/yb3pq/wiki/home/>`_ core team to work on one of the largest corpora of EEG data to date and advancing Open Science.
 
 .. figure:: /images/me/DominikWelke3.png
    :align: center
@@ -20,10 +21,10 @@ In previous positions I have worked on more applied topics such as brain-compute
 
 
 I mainly collect behavioral data together with EEG and eye tracking, sometimes along with peripheral physiology (ECG, EMG etc).  
-Yet, I fancy research tech and also gained some experience with intracranial EEG, DBS, fNIRS, fMRI, motion capturing, facial emotion tracking etc. as well as slice physiology, patch-clamp, (opto)genetics, electron/fluorescence/light microscopy etc. in the more hardcore biology realms.
+Yet, I fancy research tech and also have some experience with intracranial EEG, DBS, fNIRS, fMRI, motion capturing, facial emotion tracking etc. as well as slice physiology, patch-clamp, (opto)genetics, electron/fluorescence/light microscopy etc. in the more hardcore biology realms.
 I am also interested in meta-science and friend of the open science movement. 
 I integrated best practice thinking, power analysis, preregistrations, replication efforts and preprints into my research workflow.
-I regularly contribute to FOSS code bases such as the MNE-Python ecosystem.
+I contribute to FOSS code bases such as the MNE-Python ecosystem.
 
 
 
@@ -33,7 +34,7 @@ Contact
 
 If you want to connect, best send me an email: 
 :raw-html:`<br />`
-`dominik.welke@ae.mpg.de <dominik.welke@ae.mpg.de>`__ 
+`d.welke@leeds.ac.uk <d.welke@leeds.ac.uk>`__ 
 
 I am very passive when it comes to social media, but you can find me on the following platforms: 
 :raw-html:`<br />`
