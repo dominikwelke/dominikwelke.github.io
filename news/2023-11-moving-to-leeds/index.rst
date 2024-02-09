@@ -1,4 +1,4 @@
-.. title: New position in Leeds 
+.. title: New position in EEGManyLabs Core Team 
 .. slug: 2023-11-moving-to-leeds
 .. date: 2023-11-01 11:11:11 UTC+00:00
 .. tags: changes, open-science
