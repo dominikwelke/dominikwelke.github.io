@@ -31,8 +31,8 @@ Under Review
    <div style="border-left: 0px solid #000; height: 50px;"></div> 
 
 
-Central Contribution
-====================
+Central Contributions
+=====================
 
 Vessel, E. A., & **Welke, D.** (2025). The neuroscience of visual art appreciation. In A. Giraldez-Hayes, M. Seligman, & J. Burke, Routledge International Handbook of Wellbeing Arts (1st ed., pp. 53–64). Routledge. doi:`10.4324/9781032637297-7 <https://doi.org/10.4324/9781032637297-7>`_
 
