@@ -18,10 +18,6 @@
   <lastmod>2026-03-31T13:32:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://dominikwelke.github.io/categories/cat_other.xml</loc>
-  <lastmod>2026-03-31T13:29:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>http://dominikwelke.github.io/categories/changes.xml</loc>
   <lastmod>2026-03-31T10:36:00Z</lastmod>
  </sitemap>
@@ -31,7 +27,7 @@
  </sitemap>
  <sitemap>
   <loc>http://dominikwelke.github.io/categories/conference.xml</loc>
-  <lastmod>2026-03-31T13:41:00Z</lastmod>
+  <lastmod>2026-03-31T13:43:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://dominikwelke.github.io/categories/honours.xml</loc>
@@ -51,7 +47,7 @@
  </sitemap>
  <sitemap>
   <loc>http://dominikwelke.github.io/categories/talk.xml</loc>
-  <lastmod>2026-03-31T13:40:00Z</lastmod>
+  <lastmod>2026-03-31T13:43:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://dominikwelke.github.io/categories/workshop.xml</loc>
@@ -59,10 +55,10 @@
  </sitemap>
  <sitemap>
   <loc>http://dominikwelke.github.io/rss.xml</loc>
-  <lastmod>2026-03-31T13:41:00Z</lastmod>
+  <lastmod>2026-03-31T13:43:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://dominikwelke.github.io/sitemap.xml</loc>
-  <lastmod>2026-03-31T13:41:00Z</lastmod>
+  <lastmod>2026-03-31T13:56:00Z</lastmod>
  </sitemap>
 </sitemapindex>
