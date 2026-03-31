@@ -7,106 +7,166 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://dominikwelke.github.io/</loc>
-  <lastmod>2023-07-11T10:00:00Z</lastmod>
+  <lastmod>2026-03-31T13:29:00Z</lastmod>
  </url>
  <url>
   <loc>http://dominikwelke.github.io/2019/</loc>
-  <lastmod>2023-06-01T16:14:00Z</lastmod>
+  <lastmod>2026-03-31T10:36:00Z</lastmod>
  </url>
  <url>
   <loc>http://dominikwelke.github.io/2021/</loc>
-  <lastmod>2023-06-06T15:34:00Z</lastmod>
+  <lastmod>2026-03-31T10:36:00Z</lastmod>
  </url>
  <url>
   <loc>http://dominikwelke.github.io/2022/</loc>
-  <lastmod>2023-06-01T16:14:00Z</lastmod>
+  <lastmod>2026-03-31T10:36:00Z</lastmod>
  </url>
  <url>
   <loc>http://dominikwelke.github.io/2023/</loc>
-  <lastmod>2023-06-01T16:14:00Z</lastmod>
+  <lastmod>2026-03-31T10:36:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dominikwelke.github.io/2024/</loc>
+  <lastmod>2026-03-31T13:29:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dominikwelke.github.io/2025/</loc>
+  <lastmod>2026-03-31T13:29:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dominikwelke.github.io/2026/</loc>
+  <lastmod>2026-03-31T13:29:00Z</lastmod>
  </url>
  <url>
   <loc>http://dominikwelke.github.io/archive.html</loc>
-  <lastmod>2024-02-09T11:36:00Z</lastmod>
+  <lastmod>2026-03-31T13:41:00Z</lastmod>
  </url>
  <url>
   <loc>http://dominikwelke.github.io/categories/</loc>
-  <lastmod>2024-02-09T11:36:00Z</lastmod>
+  <lastmod>2026-03-31T13:29:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dominikwelke.github.io/categories/award/</loc>
+  <lastmod>2026-03-31T13:29:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dominikwelke.github.io/categories/call/</loc>
+  <lastmod>2026-03-31T13:29:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dominikwelke.github.io/categories/cat_other-call/</loc>
+  <lastmod>2026-03-31T13:29:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dominikwelke.github.io/categories/cat_other/</loc>
+  <lastmod>2026-03-31T13:29:00Z</lastmod>
  </url>
  <url>
   <loc>http://dominikwelke.github.io/categories/changes/</loc>
-  <lastmod>2024-02-09T11:36:00Z</lastmod>
+  <lastmod>2026-03-31T10:36:00Z</lastmod>
  </url>
  <url>
   <loc>http://dominikwelke.github.io/categories/coding/</loc>
-  <lastmod>2023-06-01T16:14:00Z</lastmod>
+  <lastmod>2026-03-31T10:36:00Z</lastmod>
  </url>
  <url>
   <loc>http://dominikwelke.github.io/categories/conference/</loc>
-  <lastmod>2023-06-01T16:14:00Z</lastmod>
+  <lastmod>2026-03-31T10:36:00Z</lastmod>
  </url>
  <url>
   <loc>http://dominikwelke.github.io/categories/honours/</loc>
-  <lastmod>2023-06-01T16:14:00Z</lastmod>
+  <lastmod>2026-03-31T10:36:00Z</lastmod>
  </url>
  <url>
   <loc>http://dominikwelke.github.io/categories/media/</loc>
-  <lastmod>2023-06-01T16:14:00Z</lastmod>
+  <lastmod>2026-03-31T10:36:00Z</lastmod>
  </url>
  <url>
   <loc>http://dominikwelke.github.io/categories/open-science/</loc>
-  <lastmod>2023-06-01T16:14:00Z</lastmod>
+  <lastmod>2026-03-31T10:36:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dominikwelke.github.io/categories/other/</loc>
+  <lastmod>2026-03-31T13:29:00Z</lastmod>
  </url>
  <url>
   <loc>http://dominikwelke.github.io/categories/talk/</loc>
-  <lastmod>2023-06-01T16:14:00Z</lastmod>
+  <lastmod>2026-03-31T10:36:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dominikwelke.github.io/categories/workshop/</loc>
+  <lastmod>2026-03-31T13:29:00Z</lastmod>
  </url>
  <url>
   <loc>http://dominikwelke.github.io/cv/</loc>
-  <lastmod>2023-06-01T16:14:00Z</lastmod>
- </url>
- <url>
-  <loc>http://dominikwelke.github.io/galleries/</loc>
-  <lastmod>2023-06-01T16:14:00Z</lastmod>
- </url>
- <url>
-  <loc>http://dominikwelke.github.io/listings/</loc>
-  <lastmod>2023-06-01T16:14:00Z</lastmod>
+  <lastmod>2026-03-31T10:36:00Z</lastmod>
  </url>
  <url>
   <loc>http://dominikwelke.github.io/news/</loc>
-  <lastmod>2024-02-09T11:36:00Z</lastmod>
+  <lastmod>2026-03-31T13:41:00Z</lastmod>
  </url>
  <url>
   <loc>http://dominikwelke.github.io/news/2019-05-vice-news-brain-on-screen/</loc>
-  <lastmod>2023-06-01T16:14:00Z</lastmod>
+  <lastmod>2026-03-31T10:36:00Z</lastmod>
  </url>
  <url>
   <loc>http://dominikwelke.github.io/news/2021-03-mne-frequencytagging/</loc>
-  <lastmod>2023-06-06T15:34:00Z</lastmod>
+  <lastmod>2026-03-31T10:36:00Z</lastmod>
  </url>
  <url>
   <loc>http://dominikwelke.github.io/news/2022-05-cns-blitz-talk/</loc>
-  <lastmod>2023-06-01T16:14:00Z</lastmod>
+  <lastmod>2026-03-31T10:36:00Z</lastmod>
  </url>
  <url>
   <loc>http://dominikwelke.github.io/news/2022-06-mne-code-sprint/</loc>
-  <lastmod>2023-06-01T16:14:00Z</lastmod>
+  <lastmod>2026-03-31T10:36:00Z</lastmod>
  </url>
  <url>
   <loc>http://dominikwelke.github.io/news/2023-03-eegmanylabs-award/</loc>
-  <lastmod>2023-06-01T16:14:00Z</lastmod>
+  <lastmod>2026-03-31T10:36:00Z</lastmod>
  </url>
  <url>
   <loc>http://dominikwelke.github.io/news/2023-03-mne-eyetracking/</loc>
-  <lastmod>2023-06-01T16:14:00Z</lastmod>
+  <lastmod>2026-03-31T10:36:00Z</lastmod>
  </url>
  <url>
   <loc>http://dominikwelke.github.io/news/2023-11-moving-to-leeds/</loc>
-  <lastmod>2024-02-09T11:36:00Z</lastmod>
+  <lastmod>2026-03-31T10:36:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dominikwelke.github.io/news/2024-05-iaea-rfrances-award/</loc>
+  <lastmod>2026-03-31T13:29:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dominikwelke.github.io/news/2024-09-bciconf-workshop/</loc>
+  <lastmod>2026-03-31T13:29:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dominikwelke.github.io/news/2024-10-ccn/</loc>
+  <lastmod>2026-03-31T13:36:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dominikwelke.github.io/news/2024-10-cns-blitz-talk/</loc>
+  <lastmod>2026-03-31T13:29:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dominikwelke.github.io/news/2025-08-ccneuro/</loc>
+  <lastmod>2026-03-31T13:41:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dominikwelke.github.io/news/2025-10-eeg101-cost-action/</loc>
+  <lastmod>2026-03-31T13:29:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dominikwelke.github.io/news/2026-01-community-framework-launch/</loc>
+  <lastmod>2026-03-31T13:29:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dominikwelke.github.io/news/index-1.html</loc>
+  <lastmod>2026-03-31T13:41:00Z</lastmod>
  </url>
  <url>
   <loc>http://dominikwelke.github.io/publications/</loc>
-  <lastmod>2023-06-01T16:14:00Z</lastmod>
+  <lastmod>2026-03-31T10:36:00Z</lastmod>
  </url>
 </urlset>

@@ -6,43 +6,63 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
+  <loc>http://dominikwelke.github.io/categories/award.xml</loc>
+  <lastmod>2026-03-31T13:29:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://dominikwelke.github.io/categories/call.xml</loc>
+  <lastmod>2026-03-31T13:32:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://dominikwelke.github.io/categories/cat_other-call.xml</loc>
+  <lastmod>2026-03-31T13:32:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://dominikwelke.github.io/categories/cat_other.xml</loc>
+  <lastmod>2026-03-31T13:29:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://dominikwelke.github.io/categories/changes.xml</loc>
-  <lastmod>2024-02-09T11:36:00Z</lastmod>
+  <lastmod>2026-03-31T10:36:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://dominikwelke.github.io/categories/coding.xml</loc>
-  <lastmod>2024-02-09T11:34:00Z</lastmod>
+  <lastmod>2026-03-31T10:36:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://dominikwelke.github.io/categories/conference.xml</loc>
-  <lastmod>2023-06-01T16:14:00Z</lastmod>
+  <lastmod>2026-03-31T13:41:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://dominikwelke.github.io/categories/honours.xml</loc>
-  <lastmod>2023-06-06T15:43:00Z</lastmod>
+  <lastmod>2026-03-31T10:36:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://dominikwelke.github.io/categories/media.xml</loc>
-  <lastmod>2023-06-01T16:14:00Z</lastmod>
+  <lastmod>2026-03-31T10:36:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://dominikwelke.github.io/categories/open-science.xml</loc>
-  <lastmod>2024-02-09T11:36:00Z</lastmod>
+  <lastmod>2026-03-31T10:36:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://dominikwelke.github.io/categories/other.xml</loc>
+  <lastmod>2026-03-31T13:32:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://dominikwelke.github.io/categories/talk.xml</loc>
-  <lastmod>2023-06-01T16:14:00Z</lastmod>
+  <lastmod>2026-03-31T13:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://dominikwelke.github.io/galleries/rss.xml</loc>
-  <lastmod>2024-02-09T11:34:00Z</lastmod>
+  <loc>http://dominikwelke.github.io/categories/workshop.xml</loc>
+  <lastmod>2026-03-31T13:29:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://dominikwelke.github.io/rss.xml</loc>
-  <lastmod>2024-02-09T11:36:00Z</lastmod>
+  <lastmod>2026-03-31T13:41:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://dominikwelke.github.io/sitemap.xml</loc>
-  <lastmod>2024-02-09T11:36:00Z</lastmod>
+  <lastmod>2026-03-31T13:41:00Z</lastmod>
  </sitemap>
 </sitemapindex>
